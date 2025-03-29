@@ -1,0 +1,5 @@
+[
+  { "firstName": "John", "lastName": "Doe", "active": true },
+  { "firstName": "Jane", "lastName": "Smith", "active": false },
+  { "firstName": "Alice", "lastName": "Johnson", "active": true }
+]
